@@ -7,12 +7,21 @@
     },
     {
       "__resolveType": "site/sections/Hero.tsx",
-      "title": "<p>Click here to tweak this text however you want.</p>",
+      "title": "<p>Hi, I'm Vinicius Morgado (Vee)</p>",
       "cta": [],
-      "description": "This text is fully editable and ready for your personal touch. Just click here, head over to the section window, or dive straight into the code to make changes as you see fit. Whether it's about the content, formatting, font, or anything in between, editing is just a click away."
+      "description": "I'm a fullstack developer working with C# and Python for backend, Expo for mobile, and Next.js for web applications. I create comprehensive solutions that seamlessly integrate server-side logic with user interfaces."
     },
     {
-      "__resolveType": "site/sections/Logos.tsx"
+      "__resolveType": "site/sections/Logos.tsx",
+      "title": "Skills",
+      "logos": [
+        {
+          "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+        },
+        {
+          "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
+        }
+      ]
     },
     {
       "__resolveType": "site/sections/ImageWithParagraph.tsx"
